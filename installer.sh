@@ -1,4 +1,5 @@
-#!/bin/sh # 
+#!/bin/sh 
+# 
  # # Command: wget https://raw.githubusercontent.com/emilnabil/skin-novaler-xtra/main/installer.sh -qO - | /bin/sh # # ########################################### ###########################################  
 MY_URL="https://raw.githubusercontent.com/emilnabil/skin-novaler-xtra/main"  
 NOVALLER-XTRA-BLUE="Novaler-S-Xtra-BLUE.tar.gz"
@@ -67,6 +68,7 @@ echo "**************************************************************************
 wait
 killall -9 enigma2
 exit 0
+
 
 
 
